@@ -1,5 +1,5 @@
 # Arduino-Motorized-Dolly
-Convert generic camera dolly rail to controllable motorized dolly.
+Convert generic camera dolly rail into controllable motorized dolly.
 
 ![Arduino Dolly](https://raw.githubusercontent.com/maxmacstn/Arduino-Motorized-Dolly/master/img/photo6129581745381681141.jpg)
 
@@ -28,5 +28,11 @@ Convert generic camera dolly rail to controllable motorized dolly.
     2. Resistor 1K Ω
     3. 2.5mm female headphone jack
 
+## Schematic
+![Schematic](https://raw.githubusercontent.com/maxmacstn/Arduino-Motorized-Dolly/master/img/DollyDuino_schematic_bb.jpg)
 ## Dependencies
 - LiquidCrystal.h
+
+## Link
+- [Youtube Link](https://youtu.be/vfO5Gkq3VD4)
+- [Blog(Thai)](https://maxmacstn.wordpress.com/2018/03/09/dollyduino/)
