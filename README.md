@@ -34,7 +34,7 @@ Convert generic camera dolly rail into controllable motorized dolly.
 ## Schematic
 ![Schematic](https://raw.githubusercontent.com/maxmacstn/Arduino-Motorized-Dolly/master/img/DollyDuino_schematic_bb.jpg)
  **Pins** (Pin number : variable name - Description)
- - 1 : enA - PWM Motor control 
+ - 2 : enA - PWM Motor control 
  - 24 : in1 - Motor rotational  control 1
  - 26 : in2 - Motor rotational control 2
  - 28 : limSW_L - Left limit switch
